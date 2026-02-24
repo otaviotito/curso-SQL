@@ -68,7 +68,7 @@ LIMIT 10;
 
 📈 Graph:
 
-![Top Paying Jobs](Assets\top_paying_roles.png)
+![Top Paying Jobs](Assets/top_paying_roles.png)
 
 ## 2️⃣ Skills for Top Paying Jobs
 
@@ -115,7 +115,7 @@ ORDER BY
 
 📈 Graph:
 
-![Top Paying Jobs Skills](Assets\top_paying_jobs_skills.png)
+![Top Paying Jobs Skills](Assets/top_paying_jobs_skills.png)
 
 ## 3️⃣ In-Demand Skills for Data Analysts
 
@@ -152,7 +152,7 @@ LIMIT 5
 
 📊 Graph:
 
-![Top Demanding Skills](Assets\top_demanding_skills.png)
+![Top Demanding Skills](Assets/top_demanding_skills.png)
 
 ## 4️⃣ Skills Based on Salary
 
@@ -189,7 +189,7 @@ Skills related to software development and deployment (GitLab, Swift) indicate t
 Cloud and data engineering tools (Elasticsearch) show the growing importance of cloud analytics environments in maximizing earning potential.
 
 📊 Graph:
-![Top Paying Skills](Assets\top_paying_skills.png)
+![Top Paying Skills](Assets/top_paying_skills.png)
 
 ## 5️⃣ Most Optimal Skills to Learn
 
@@ -228,7 +228,7 @@ Database Technologies: SQL Server, Oracle, and NoSQL skills are consistently sou
 
 📊 Graph:
 
-![Optimal Skills to Learn](Assets\optimal_skills.png)
+![Optimal Skills to Learn](Assets/optimal_skills.png)
 # What i Learned
 
 During this project, I really leveled up my SQL and data analysis skills:
