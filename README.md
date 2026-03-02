@@ -122,7 +122,7 @@ ORDER BY
 This analysis identifies the skills most frequently requested in Data Analyst job postings, highlighting what employers value most for remote positions.
 
 🗄️ SQL Snippet:
-```
+```sql
 SELECT 
     skills,
     COUNT(T2.job_id) AS demand_count
@@ -159,7 +159,7 @@ LIMIT 5
 This analysis explores the average salaries associated with different skills, revealing which skills command the highest pay for Data Analysts.
 
 🗄️ SQL Snippet:
-```
+```sql
  SELECT 
     skills,
     ROUND(AVG(salary_year_avg),0) AS avg_salary
@@ -196,7 +196,7 @@ Cloud and data engineering tools (Elasticsearch) show the growing importance of 
 This analysis combines insights from demand and salary data to identify skills that are both highly requested and offer higher average salaries, helping Data Analysts focus on skills that maximize career value.
 
 🗄️ SQL Snippet:
-```
+```sql
 SELECT
     T3.skill_id,
     T3.skills,
